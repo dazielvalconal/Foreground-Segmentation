@@ -4,7 +4,7 @@
 
 *link dataset:[Dataset](https://www.kaggle.com/nikhilroxtomar/person-segmentation/download) (thay thế folder people_segmentation)
 
-*Link new_data:[ArguData](https://drive.google.com/file/d/1vlsTwMz1AYpUZf_zEknvyrSYtR40rDEl/view?usp=drive_link)     hoặc chạy data.py(yêu cầu có dataset) (thay thế new_data)
+*Link new_data:[AugmenatedData](https://drive.google.com/file/d/1vlsTwMz1AYpUZf_zEknvyrSYtR40rDEl/view?usp=drive_link)     hoặc chạy data.py(yêu cầu có dataset) (thay thế new_data)
 
 *file pre.py :là file để kiểm tra khả năng tách nền với vật thể .Đưa ảnh vào test_images\image
 
