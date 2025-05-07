@@ -1,6 +1,6 @@
 *Dự án được thực hiện bằng thư viện Tensorflow 2.5.0 cùng 1 số thư viện khác
 
-*link model:https://drive.google.com/file/d/17QKxSIBFhyJoDps93-sCVHnVV6UWS1sG/view?usp=drive_link (đưa vào file)
+*link model:[Model.h5](https://drive.google.com/file/d/17QKxSIBFhyJoDps93-sCVHnVV6UWS1sG/view?usp=drive_link) (đưa vào file)
 
 *link dataset:https://www.kaggle.com/nikhilroxtomar/person-segmentation/download (thay thế folder people_segmentation)
 
