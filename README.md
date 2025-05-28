@@ -1,5 +1,5 @@
 *Dự án được thực hiện bằng thư viện Tensorflow 2.5.0 cùng 1 số thư viện khác
-:warning:
+!:warning:
 ```
 
 Có một số thư viện trong dự án được cài đặt cho tương thích với nhau
