@@ -10,8 +10,13 @@
 ---
 tạo ra một folder tên test_images có cấu trúc như sau 
 
-<pre> ```plaintext test_images ├── image (đưa ảnh vào đây) ├── mask ├── a (chứa ảnh gốc) └── b (ảnh đã xử lý) ``` </pre>
-   
+```plaintext
+test_images
+├── image (đưa ảnh vào đây)
+├── mask
+├── a (chứa ảnh gốc)
+└── b (ảnh đã xử lý)
+```
 ---
 
 *file main.py là file nếu muốn thao tác qua giao diện
