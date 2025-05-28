@@ -1,0 +1,871 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.28)  28 MAY 2025 14:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Vision_com.tex
+(./Vision_com.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-29>
+(c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2024/06/29 v1.4n Standard LaTeX document class
+(c:/texlive/2025/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count272
+\c@chapter=\count273
+\c@section=\count274
+\c@subsection=\count275
+\c@subsubsection=\count276
+\c@paragraph=\count277
+\c@subparagraph=\count278
+\c@figure=\count279
+\c@table=\count280
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen146
+)
+(c:/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(c:/texlive/2025/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2025/05/14 v25.9 The multilingual framework for pdfLaTeX, LuaLaT
+eX and XeLaTeX
+\babel@savecnt=\count281
+\U@D=\dimen147
+\l@unhyphenated=\language90
+
+(c:/texlive/2025/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count282
+
+(c:/texlive/2025/texmf-dist/tex/generic/babel-vietnamese/vietnamese.ldf
+Language: vietnamese 
+
+(c:/texlive/2025/texmf-dist/tex/generic/babel/locale/vi/babel-vietnamese.tex
+Package babel Info: Importing font and identification data for vietnamese
+(babel)             from babel-vi.ini. Reported on input line 11.
+)
+Loading definitions for the Vietnamese font encoding
+(c:/texlive/2025/texmf-dist/tex/latex/vntex/t5enc.def
+File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
+Now handling font encoding T5 ...
+... processing UTF-8 mapping file for font encoding T5
+
+(c:/texlive/2025/texmf-dist/tex/latex/vntex/t5enc.dfu
+File: t5enc.dfu 2006/08/19 v1.1 UTF8 support for Vietnamese
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+01A0 (decimal 416)
+   defining Unicode char U+01A1 (decimal 417)
+   defining Unicode char U+01AF (decimal 431)
+   defining Unicode char U+01B0 (decimal 432)
+   defining Unicode char U+1EA0 (decimal 7840)
+   defining Unicode char U+1EA1 (decimal 7841)
+   defining Unicode char U+1EA2 (decimal 7842)
+   defining Unicode char U+1EA3 (decimal 7843)
+   defining Unicode char U+1EA4 (decimal 7844)
+   defining Unicode char U+1EA5 (decimal 7845)
+   defining Unicode char U+1EA6 (decimal 7846)
+   defining Unicode char U+1EA7 (decimal 7847)
+   defining Unicode char U+1EA8 (decimal 7848)
+   defining Unicode char U+1EA9 (decimal 7849)
+   defining Unicode char U+1EAA (decimal 7850)
+   defining Unicode char U+1EAB (decimal 7851)
+   defining Unicode char U+1EAC (decimal 7852)
+   defining Unicode char U+1EAD (decimal 7853)
+   defining Unicode char U+1EAE (decimal 7854)
+   defining Unicode char U+1EAF (decimal 7855)
+   defining Unicode char U+1EB0 (decimal 7856)
+   defining Unicode char U+1EB1 (decimal 7857)
+   defining Unicode char U+1EB2 (decimal 7858)
+   defining Unicode char U+1EB3 (decimal 7859)
+   defining Unicode char U+1EB4 (decimal 7860)
+   defining Unicode char U+1EB5 (decimal 7861)
+   defining Unicode char U+1EB6 (decimal 7862)
+   defining Unicode char U+1EB7 (decimal 7863)
+   defining Unicode char U+1EB8 (decimal 7864)
+   defining Unicode char U+1EB9 (decimal 7865)
+   defining Unicode char U+1EBA (decimal 7866)
+   defining Unicode char U+1EBB (decimal 7867)
+   defining Unicode char U+1EBC (decimal 7868)
+   defining Unicode char U+1EBD (decimal 7869)
+   defining Unicode char U+1EBE (decimal 7870)
+   defining Unicode char U+1EBF (decimal 7871)
+   defining Unicode char U+1EC0 (decimal 7872)
+   defining Unicode char U+1EC1 (decimal 7873)
+   defining Unicode char U+1EC2 (decimal 7874)
+   defining Unicode char U+1EC3 (decimal 7875)
+   defining Unicode char U+1EC4 (decimal 7876)
+   defining Unicode char U+1EC5 (decimal 7877)
+   defining Unicode char U+1EC6 (decimal 7878)
+   defining Unicode char U+1EC7 (decimal 7879)
+   defining Unicode char U+1EC8 (decimal 7880)
+   defining Unicode char U+1EC9 (decimal 7881)
+   defining Unicode char U+1ECA (decimal 7882)
+   defining Unicode char U+1ECB (decimal 7883)
+   defining Unicode char U+1ECC (decimal 7884)
+   defining Unicode char U+1ECD (decimal 7885)
+   defining Unicode char U+1ECE (decimal 7886)
+   defining Unicode char U+1ECF (decimal 7887)
+   defining Unicode char U+1ED0 (decimal 7888)
+   defining Unicode char U+1ED1 (decimal 7889)
+   defining Unicode char U+1ED2 (decimal 7890)
+   defining Unicode char U+1ED3 (decimal 7891)
+   defining Unicode char U+1ED4 (decimal 7892)
+   defining Unicode char U+1ED5 (decimal 7893)
+   defining Unicode char U+1ED6 (decimal 7894)
+   defining Unicode char U+1ED7 (decimal 7895)
+   defining Unicode char U+1ED8 (decimal 7896)
+   defining Unicode char U+1ED9 (decimal 7897)
+   defining Unicode char U+1EDA (decimal 7898)
+   defining Unicode char U+1EDB (decimal 7899)
+   defining Unicode char U+1EDC (decimal 7900)
+   defining Unicode char U+1EDD (decimal 7901)
+   defining Unicode char U+1EDE (decimal 7902)
+   defining Unicode char U+1EDF (decimal 7903)
+   defining Unicode char U+1EE0 (decimal 7904)
+   defining Unicode char U+1EE1 (decimal 7905)
+   defining Unicode char U+1EE2 (decimal 7906)
+   defining Unicode char U+1EE3 (decimal 7907)
+   defining Unicode char U+1EE4 (decimal 7908)
+   defining Unicode char U+1EE5 (decimal 7909)
+   defining Unicode char U+1EE6 (decimal 7910)
+   defining Unicode char U+1EE7 (decimal 7911)
+   defining Unicode char U+1EE8 (decimal 7912)
+   defining Unicode char U+1EE9 (decimal 7913)
+   defining Unicode char U+1EEA (decimal 7914)
+   defining Unicode char U+1EEB (decimal 7915)
+   defining Unicode char U+1EEC (decimal 7916)
+   defining Unicode char U+1EED (decimal 7917)
+   defining Unicode char U+1EEE (decimal 7918)
+   defining Unicode char U+1EEF (decimal 7919)
+   defining Unicode char U+1EF0 (decimal 7920)
+   defining Unicode char U+1EF1 (decimal 7921)
+   defining Unicode char U+1EF2 (decimal 7922)
+   defining Unicode char U+1EF3 (decimal 7923)
+   defining Unicode char U+1EF4 (decimal 7924)
+   defining Unicode char U+1EF5 (decimal 7925)
+   defining Unicode char U+1EF6 (decimal 7926)
+   defining Unicode char U+1EF7 (decimal 7927)
+   defining Unicode char U+1EF8 (decimal 7928)
+   defining Unicode char U+1EF9 (decimal 7929)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+))
+Package babel Info: Making " an active character on input line 147.
+))
+(c:/texlive/2025/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen148
+\ar@mcellbox=\box53
+\extrarowheight=\dimen149
+\NC@list=\toks19
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box54
+)
+(c:/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen150
+\lightrulewidth=\dimen151
+\cmidrulewidth=\dimen152
+\belowrulesep=\dimen153
+\belowbottomsep=\dimen154
+\aboverulesep=\dimen155
+\abovetopsep=\dimen156
+\cmidrulesep=\dimen157
+\cmidrulekern=\dimen158
+\defaultaddspace=\dimen159
+\@cmidla=\count283
+\@cmidlb=\count284
+\@aboverulesep=\dimen160
+\@belowrulesep=\dimen161
+\@thisruleclass=\count285
+\@lastruleclass=\count286
+\@thisrulewidth=\dimen162
+)
+(c:/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
+\LTchunksize=\count287
+\LTcapwidth=\dimen163
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@gbox=\box59
+\LT@cols=\count288
+\LT@rows=\count289
+\c@LT@tables=\count290
+\c@LT@chunks=\count291
+\LT@p@ftn=\toks20
+)
+(c:/texlive/2025/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen164
+\TX@old@table=\dimen165
+\TX@old@col=\dimen166
+\TX@target=\dimen167
+\TX@delta=\dimen168
+\TX@cols=\count292
+\TX@ftn=\toks21
+)
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen169
+\Gin@req@width=\dimen170
+)
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen171
+))
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen172
+)
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count293
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count294
+\leftroot@=\count295
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count296
+\DOTSCASE@=\count297
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box60
+\strutbox@=\box61
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen173
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count298
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count299
+\dotsspace@=\muskip17
+\c@parentequation=\count300
+\dspbrk@lvl=\count301
+\tag@help=\toks24
+\row@=\count302
+\column@=\count303
+\maxfields@=\count304
+\andhelp@=\toks25
+\eqnshift@=\dimen174
+\alignsep@=\dimen175
+\tagshift@=\dimen176
+\tagwidth@=\dimen177
+\totwidth@=\dimen178
+\lineht@=\dimen179
+\@envbody=\toks26
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(c:/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count305
+\Gm@cntv=\count306
+\c@Gm@tempcnt=\count307
+\Gm@bindingoffset=\dimen180
+\Gm@wd@mp=\dimen181
+\Gm@odd@mp=\dimen182
+\Gm@even@mp=\dimen183
+\Gm@layoutwidth=\dimen184
+\Gm@layoutheight=\dimen185
+\Gm@layouthoffset=\dimen186
+\Gm@layoutvoffset=\dimen187
+\Gm@dimlist=\toks28
+)
+(c:/texlive/2025/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen188
+\c@nlinenum=\count308
+\TeXr@lab=\toks29
+)
+(c:/texlive/2025/texmf-dist/tex/latex/carlisle/ltxtable.sty
+Package: ltxtable 2021/06/13 v0.4 longtable/tabularx merge (DPC)
+)
+(c:/texlive/2025/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip60
+\enit@outerparindent=\dimen189
+\enit@toks=\toks30
+\enit@inbox=\box62
+\enit@count@id=\count309
+\enitdp@description=\count310
+)
+(c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count311
+)
+(./Vision_com.aux
+LaTeX Font Info:    Trying to load font information for T5+cmr on input line 5.
+
+ (c:/texlive/2025/texmf-dist/tex/latex/vntex/t5cmr.fd
+File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Package babel Info: 'vietnamese' activates 'vietnamese' shorthands.
+(babel)             Reported  on input line 5.
+)
+\openout1 = `Vision_com.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+
+(c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count312
+\scratchdimen=\dimen190
+\scratchbox=\box63
+\nofMPsegments=\count313
+\nofMParguments=\count314
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count315
+\MPscratchDim=\dimen191
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
+\everyMPtoPDFconversion=\toks32
+) (c:/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=702.78308pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<logo.jpg, id=1, 139.27031pt x 138.5175pt>
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg  used on input line 32.
+(pdftex.def)             Requested size: 113.81102pt x 113.19829pt.
+
+
+[1
+
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo.jpg>]
+
+[1
+
+]
+
+[2]
+<resnet50.png, id=15, 453.0015pt x 95.265pt>
+File: resnet50.png Graphic file (type png)
+<use resnet50.png>
+Package pdftex.def Info: resnet50.png  used on input line 134.
+(pdftex.def)             Requested size: 386.95897pt x 81.37537pt.
+
+
+[3
+
+ <./resnet50.png>]
+<aspp.png, id=21, 383.18156pt x 164.86594pt>
+File: aspp.png Graphic file (type png)
+<use aspp.png>
+Package pdftex.def Info: aspp.png  used on input line 156.
+(pdftex.def)             Requested size: 386.95897pt x 166.50067pt.
+<mau_cam.png, id=22, 325.96782pt x 188.95593pt>
+File: mau_cam.png Graphic file (type png)
+<use mau_cam.png>
+Package pdftex.def Info: mau_cam.png  used on input line 167.
+(pdftex.def)             Requested size: 435.32422pt x 252.36925pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<deeplab-compare.png, id=23, 422.57875pt x 161.60374pt>
+File: deeplab-compare.png Graphic file (type png)
+<use deeplab-compare.png>
+Package pdftex.def Info: deeplab-compare.png  used on input line 193.
+(pdftex.def)             Requested size: 386.95897pt x 147.9868pt.
+
+
+[4{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./asp
+p.png>]
+
+[5 <./mau_cam.png> <./deeplab-compare.png>]
+<atrous.png, id=35, 349.305pt x 167.87718pt>
+File: atrous.png Graphic file (type png)
+<use atrous.png>
+Package pdftex.def Info: atrous.png  used on input line 210.
+(pdftex.def)             Requested size: 386.95897pt x 185.98468pt.
+<thua_thot.png, id=36, 353.82187pt x 209.28188pt>
+File: thua_thot.png Graphic file (type png)
+<use thua_thot.png>
+Package pdftex.def Info: thua_thot.png  used on input line 222.
+(pdftex.def)             Requested size: 386.95897pt x 228.8855pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<deeplabv3plus-architecture.png, id=37, 421.4655pt x 222.066pt>
+File: deeplabv3plus-architecture.png Graphic file (type png)
+<use deeplabv3plus-architecture.png>
+Package pdftex.def Info: deeplabv3plus-architecture.png  used on input line 235
+.
+(pdftex.def)             Requested size: 386.95897pt x 203.89656pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[6 <./atrous.png>]
+
+[7 <./thua_thot.png>]
+
+[8 <./deeplabv3plus-architecture.png>]
+Overfull \hbox (1.41452pt too wide) in paragraph at lines 277--280
+[]\T5/cmr/m/n/12 3.1.1. DCNN (Deep Convolutional Neural Network): tr½ch xu§t ^^
+_°c tr÷ng - Sû döng ResNet50
+ []
+
+
+
+[9
+
+]
+Overfull \hbox (12.72543pt too wide) in paragraph at lines 342--343
+[]\T5/cmr/m/n/12 3.2.4 Convolution Refinement: Sau khi concat feature maps, cho
+ qua mët chuéi 3$\OMS/cmsy/m/n/12 ^^B$\T5/cmr/m/n/12 3 convolution
+ []
+
+
+
+[10]
+
+[11]
+Overfull \hbox (36.23387pt too wide) in paragraph at lines 490--490
+ []|\T5/cmr/bx/n/12 ID_picture| 
+ []
+
+File: p1_result.png Graphic file (type png)
+<use p1_result.png>
+Package pdftex.def Info: p1_result.png  used on input line 490.
+(pdftex.def)             Requested size: 48.36958pt x 47.95052pt.
+File: p2_result.png Graphic file (type png)
+<use p2_result.png>
+Package pdftex.def Info: p2_result.png  used on input line 490.
+(pdftex.def)             Requested size: 48.36958pt x 48.36954pt.
+File: p3_result.png Graphic file (type png)
+<use p3_result.png>
+Package pdftex.def Info: p3_result.png  used on input line 490.
+(pdftex.def)             Requested size: 48.36958pt x 50.38475pt.
+File: p4_result.png Graphic file (type png)
+<use p4_result.png>
+Package pdftex.def Info: p4_result.png  used on input line 490.
+(pdftex.def)             Requested size: 48.36958pt x 47.5566pt.
+
+Overfull \hbox (13.43405pt too wide) in paragraph at lines 490--490
+ [] 
+ []
+
+File: p5_result.png Graphic file (type png)
+<use p5_result.png>
+Package pdftex.def Info: p5_result.png  used on input line 490.
+(pdftex.def)             Requested size: 48.36958pt x 49.18246pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 511--511
+[]|\T5/cmr/bx/n/12 DeepLab
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+[]|\T5/cmr/m/n/12 0.965
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--527
+[]|\T5/cmr/m/n/12 Gi£m
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 527--527
+\T5/cmr/m/n/12 ^^_·u, dao
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--527
+\T5/cmr/m/n/12 (xem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--527
+[]|\T5/cmr/m/n/12 Gi£m ^^_·u
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--527
+\T5/cmr/m/n/12 song cao
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--527
+\T5/cmr/m/n/12 hìn ban
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--529
+\T5/cmr/m/n/12 tø ^^_¦u,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--529
+\OML/cmm/m/it/12 <$ \T5/cmr/m/n/12 1%
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--529
+[]|\T5/cmr/m/n/12 T«ng ên
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--529
+\T5/cmr/m/n/12 ^^_ành; v¨n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 529--529
+\T5/cmr/m/n/12 n¸u train
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+[]|\T5/cmr/m/n/12 Khæng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+\T5/cmr/m/n/12 rã r»t:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+\T5/cmr/m/n/12 Train
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+\T5/cmr/m/n/12 IoU ^^U
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+\T5/cmr/m/n/12 Val IoU
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+[]|\T5/cmr/m/n/12 Ch¶nh $\OMS/cmsy/m/n/12 ^^Y$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
+\T5/cmr/m/n/12 +2,7% $\OMS/cmsy/m/n/12 !$
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 531--531
+\T5/cmr/m/n/12 ch§p nhªn
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 531--531
+\T5/cmr/m/n/12 ^^_÷ñc; ch÷a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--535
+[]|\T5/cmr/m/n/12 K½ch th÷îc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--535
+\T5/cmr/m/n/12 chõ y¸u
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 535--535
+\T5/cmr/m/n/12 nhí skip
+ []
+
+
+Overfull \hbox (6.45033pt too wide) in paragraph at lines 535--535
+\T5/cmr/m/n/12 connection| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--535
+[]|\T5/cmr/m/n/12 R§t rëng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--535
+\T5/cmr/m/n/12 + ASPP
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 535--535
+\OMS/cmsy/m/n/12 !$ \T5/cmr/m/n/12 lñi th¸
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--535
+\T5/cmr/m/n/12 £nh c£nh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 535--535
+\T5/cmr/m/n/12 rëng/phùc
+ []
+
+
+
+[13 <./p1_result.png> <./p2_result.png> <./p3_result.png> <./p4_result.png> <./
+p5_result.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<loss_miou.png, id=86, 441.90094pt x 176.91093pt>
+File: loss_miou.png Graphic file (type png)
+<use loss_miou.png>
+Package pdftex.def Info: loss_miou.png  used on input line 553.
+(pdftex.def)             Requested size: 386.95897pt x 154.92355pt.
+<4_bieudo.jpg, id=87, 497.60907pt x 321.45094pt>
+File: 4_bieudo.jpg Graphic file (type jpg)
+<use 4_bieudo.jpg>
+Package pdftex.def Info: 4_bieudo.jpg  used on input line 569.
+(pdftex.def)             Requested size: 386.95897pt x 249.97536pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in alignment at lines 641--641
+[][][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[14 <./loss_miou.png>]
+
+LaTeX Warning: Text page 15 contains only floats.
+
+
+
+[15]
+
+[16 <./4_bieudo.jpg>]
+
+[17]
+
+[18]
+Underfull \hbox (badness 3364) in paragraph at lines 676--676
+[]\T5/cmr/m/n/12 Sh-tsang. ``Review: DeepLabV3 - Atrous Separable Convolution -
+ Semantic
+ []
+
+
+
+[19
+
+] (./Vision_com.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-04-29>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 5121 strings out of 469590
+ 80600 string characters out of 5474519
+ 504133 words of memory out of 5000000
+ 31921 multiletter control sequences out of 15000+600000
+ 647968 words of font info for 76 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,17n,65p,684b,522s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/tex
+live/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2025/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2025/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/te
+xlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2025
+/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dis
+t/fonts/type1/vntex/vnr/vnbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/vnte
+x/vnr/vnbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb><c
+:/texlive/2025/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb><c:/texlive/2025/texm
+f-dist/fonts/type1/vntex/vnr/vnr8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/v
+ntex/vnr/vnti12.pfb>
+Output written on Vision_com.pdf (20 pages, 864503 bytes).
+PDF statistics:
+ 184 PDF objects out of 1000 (max. 8388607)
+ 99 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+
