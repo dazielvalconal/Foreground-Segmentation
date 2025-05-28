@@ -1,4 +1,10 @@
 *Dự án được thực hiện bằng thư viện Tensorflow 2.5.0 cùng 1 số thư viện khác
+```
+:warning:
+Có một số thư viện trong dự án được cài đặt cho tương thích với nhau
+Cho nên mọi người để ý cài thư viện cho đúng nhé! :smile:
+
+```
 
 *link model:[Model.h5](https://drive.google.com/file/d/17QKxSIBFhyJoDps93-sCVHnVV6UWS1sG/view?usp=drive_link) (đưa vào file)
 
@@ -23,7 +29,7 @@ test_images
 
 *baocao.pdf :là file báo cáo của nhóm
 
-*Folder Group 6 Report : Là folder nhóm thử viết bằng Latex  
+*Folder Group 6 Report : Là folder nhóm thử viết bằng Latex  :smile:
 
 
 
