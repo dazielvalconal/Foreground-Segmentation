@@ -10,7 +10,7 @@
 ---
 tạo ra một folder tên test_images có cấu trúc như sau 
 
-test_images\n├── image (đưa ảnh vào đây)\n├── mask\n├── a (chứa ảnh gốc)\n└── b (ảnh đã xử lý)
+<pre> ```plaintext test_images ├── image (đưa ảnh vào đây) ├── mask ├── a (chứa ảnh gốc) └── b (ảnh đã xử lý) ``` </pre>
    
 ---
 
