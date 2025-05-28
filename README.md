@@ -7,6 +7,17 @@
 *Link new_data:[AugmenatedData](https://drive.google.com/file/d/1vlsTwMz1AYpUZf_zEknvyrSYtR40rDEl/view?usp=drive_link)     hoặc chạy data.py(yêu cầu có dataset) (thay thế new_data)
 
 *file pre.py :là file để kiểm tra khả năng tách nền với vật thể .Đưa ảnh vào test_images\image
+---
+tạo ra một folder tên test_images có cấu trúc như sau 
+
+test_images
+├── image (đưa ảnh vào đây)
+├── mask  
+├── a (chứa ảnh gốc)
+└── b (ảnh đã xử ký)
+   
+ 
+---
 
 *file main.py là file nếu muốn thao tác qua giao diện
 
