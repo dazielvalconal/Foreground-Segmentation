@@ -12,7 +12,7 @@
 
 *baocao.pdf :là file báo cáo của nhóm
 
-*Folder Group 6 Report : Là folder nhóm thử va chạm với bộ môn múa Latex 
+*Folder Group 6 Report : Là folder nhóm thử viết bằng Latex  
 
 
 
