@@ -10,13 +10,8 @@
 ---
 tạo ra một folder tên test_images có cấu trúc như sau 
 
-test_images
-├── image (đưa ảnh vào đây)
-├── mask  
-├── a (chứa ảnh gốc)
-└── b (ảnh đã xử ký)
+test_images\n├── image (đưa ảnh vào đây)\n├── mask\n├── a (chứa ảnh gốc)\n└── b (ảnh đã xử lý)
    
- 
 ---
 
 *file main.py là file nếu muốn thao tác qua giao diện
